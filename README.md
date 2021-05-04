@@ -3,7 +3,9 @@
 Certificates from courses and organizations I have earned.
 
 ## Scrimba Certifications
-##events
+
+### events
+
 [24 days of #JavaScriptmas - January 4, 2021](https://scrimba.com/certificate/uzNgR5U3/gadventcalendar)
 
 ## Platzi Careers
