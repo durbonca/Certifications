@@ -26,9 +26,9 @@ Certificates from courses and organizations I have earned.
 
 ## Platzi Courses
 
-#####Resume of Platzi Courses made
+##### Resume of Platzi Courses made
 
-####Basic
+#### Basic
 
 [Programación Basica - 06 / Apr / 2019 ](https://github.com/durbonca/Certifications/blob/main/Platzi/courses/diploma-programacion-basica.pdf)
 
@@ -46,7 +46,7 @@ Certificates from courses and organizations I have earned.
 
 [Introduccion a terminal y lineas de comandos (renovación) - 06 / Dic / 2019 ](https://github.com/durbonca/Certifications/blob/main/Platzi/courses/diploma-terminal.pdf)
 
-####Engineering
+#### Engineering
 
 [Fundamentos de desarrollo de hardware con Arduino - 28 / Mar / 2019 ](https://github.com/durbonca/Certifications/blob/main/Platzi/courses/diploma-fundamentos-arduino.pdf)
 
@@ -60,7 +60,7 @@ Certificates from courses and organizations I have earned.
 
 [Programación Estructurada - 26 / Nov / 2019](https://github.com/durbonca/Certifications/blob/main/Platzi/courses/diploma-programacion-estructurada.pdf)
 
-####Frontend dev
+#### Frontend dev
 
 [Curso de Bootstrap - 20 / Oct / 2019 ](https://github.com/durbonca/Certifications/blob/main/Platzi/courses/diploma-bootstrap.pdf)
 
@@ -74,13 +74,13 @@ Certificates from courses and organizations I have earned.
 
 [Frontend Developer - Escuela de Javascript - 18 / Nov / 2019 ](https://github.com/durbonca/Certifications/blob/main/Platzi/courses/diploma-frontend-developer.pdf)
 
-####Javascript
+#### Javascript
 
 [Foundamentos de Javascript - Escuela de Javascript - 25 / Jan / 2020 ](https://github.com/durbonca/Certifications/blob/main/Platzi/courses/diploma-fundamentos-javascript.pdf)
 
 [Basico de Javascript -  06 / Apr / 2020](https://github.com/durbonca/Certifications/blob/main/Platzi/courses/diploma-basico-javascript.pdf)
 
-####Other
+#### Others
 
 [Comunicación Online con Slack - 01 / Jun / 2019 ](https://github.com/durbonca/Certifications/blob/main/Platzi/courses/diploma-slack-2018.pdf)
 
