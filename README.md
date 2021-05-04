@@ -1,2 +1,3 @@
 # Certifications
-Public display of my digital certifications and updates
+
+Certificates from courses and organizations I have earned.
