@@ -2,11 +2,15 @@
 
 Certificates from courses and organizations I have earned.
 
+## Scrimba Certifications
+##events
+[24 days of #JavaScriptmas - January 4, 2021](https://scrimba.com/certificate/uzNgR5U3/gadventcalendar)
+
 ## Platzi Careers
 
-*all this cetifications can be checkout at my platzi public profile in 👉 [here](https://platzi.com/p/durbonca/) 👈*
+*All the Platzi cetifications can be validate at my platzi public profile in 👉 [here](https://platzi.com/p/durbonca/) 👈*
 
-Resume of Platzi Careers made:
+#####Resume of Platzi Careers made
 
 [Carrera de Arquitectura FrontEnd - 13 / Sep / 2019](https://github.com/durbonca/Certifications/blob/main/Platzi/carrers/diploma-arquitecto.pdf)
 
@@ -20,7 +24,7 @@ Resume of Platzi Careers made:
 
 ## Platzi Courses
 
-Resume of Platzi Courses made:
+#####Resume of Platzi Courses made
 
 ####Basic
 
