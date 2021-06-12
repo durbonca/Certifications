@@ -82,7 +82,7 @@ Certificates from courses and organizations I have earned.
 
 #### Design
 
-[Figma desde cero - Escuela de Javascript - 25 / Jan / 2020 ](https://github.com/durbonca/Certifications/blob/main/Edteam/courses/certificado-curso-figma.png)
+[Figma desde cero - Escuela de Javascript - 12 / Jun / 2021 ](https://github.com/durbonca/Certifications/blob/main/Edteam/courses/certificado-curso-figma.pdf)
 
 #### Others
 
