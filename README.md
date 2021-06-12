@@ -80,6 +80,10 @@ Certificates from courses and organizations I have earned.
 
 [Basico de Javascript -  06 / Apr / 2020](https://github.com/durbonca/Certifications/blob/main/Platzi/courses/diploma-basico-javascript.pdf)
 
+#### Design
+
+[Figma desde cero - Escuela de Javascript - 25 / Jan / 2020 ](https://github.com/durbonca/Certifications/blob/main/Edteam/courses/certificado-curso-figma.png)
+
 #### Others
 
 [Comunicación Online con Slack - 01 / Jun / 2019 ](https://github.com/durbonca/Certifications/blob/main/Platzi/courses/diploma-slack-2018.pdf)
