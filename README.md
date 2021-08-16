@@ -80,6 +80,10 @@ Certificates from courses and organizations I have earned.
 
 [Basico de Javascript -  06 / Apr / 2020](https://github.com/durbonca/Certifications/blob/main/Platzi/courses/diploma-basico-javascript.pdf)
 
+#### Backend
+
+[Bases de Datos NoSQL con Mongo DB - 15 / Ago / 2021 ](https://github.com/durbonca/Certifications/blob/main/Edteam/courses/certificado-curso-mongodb.pdf)
+
 #### Design
 
 [Figma desde cero - 12 / Jun / 2021 ](https://github.com/durbonca/Certifications/blob/main/Edteam/courses/certificado-curso-figma.pdf)
