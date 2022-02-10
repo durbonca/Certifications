@@ -48,7 +48,7 @@ Certificates from courses and organizations I have earned.
 
 #### Engineering
 
-[Scrum Fundamentals Certified - 10 / Feb / 2022 ](https://github.com/durbonca/Certifications/blob/main/Others/course-certificates-SCRUMstudy_Manuel Duran.pdf)
+[Scrum Fundamentals Certified - 10 / Feb / 2022 ](https://github.com/durbonca/Certifications/blob/main/Others/course-certificates-SCRUMstudy_Manuel_Duran.pdf)
 
 
 [Fundamentos de desarrollo de hardware con Arduino - 28 / Mar / 2019 ](https://github.com/durbonca/Certifications/blob/main/Platzi/courses/diploma-fundamentos-arduino.pdf)
