@@ -12,7 +12,7 @@ Certificates from courses and organizations I have earned.
 
 *All the Platzi cetifications can be validate at my platzi public profile in 👉 [here](https://platzi.com/p/durbonca/) 👈*
 
-#####Resume of Platzi Careers made
+##### Resume of Platzi Careers made
 
 [Carrera de Arquitectura FrontEnd - 13 / Sep / 2019](https://github.com/durbonca/Certifications/blob/main/Platzi/carrers/diploma-arquitecto.pdf)
 
