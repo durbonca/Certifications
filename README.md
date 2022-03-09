@@ -4,6 +4,8 @@ Certificates from courses and organizations I have earned.
 
 ## Scrimba Certifications
 
+[The Frontend Developer Career Path](https://scrimba.com/certificate/uzNgR5U3/gfrontend)
+
 ### events
 
 [24 days of #JavaScriptmas - January 4, 2021](https://scrimba.com/certificate/uzNgR5U3/gadventcalendar)
@@ -47,6 +49,8 @@ Certificates from courses and organizations I have earned.
 [Introduccion a terminal y lineas de comandos (renovación) - 06 / Dic / 2019 ](https://github.com/durbonca/Certifications/blob/main/Platzi/courses/diploma-terminal.pdf)
 
 #### Engineering
+
+[Desarrollo y despliegue de GCP](https://github.com/durbonca/Certifications/blob/main/Platzi/courses/diploma-desarrollo-despliegue-gcp.pdf)
 
 [Scrum Fundamentals Certified - 10 / Feb / 2022 ](https://github.com/durbonca/Certifications/blob/main/Others/course-certificates-SCRUMstudy_Manuel_Duran.pdf)
 
