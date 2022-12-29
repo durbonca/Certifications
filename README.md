@@ -2,6 +2,19 @@
 
 Certificates from courses and organizations I have earned.
 
+
+## Udemy Certifications
+
+#### Ecommerce
+
+[ How To Become A Shopify Expert (From Zero To Hero !) - 29 / Dec / 2022 ](https://github.com/durbonca/Certifications/blob/main/Udemy/UC-7efe8fcf-b8f2-4e94-94f6-1823f69a570c.pdf)
+
+## EdTeam Certifications
+
+#### Design
+
+[Figma desde cero - 12 / Jun / 2021 ](https://github.com/durbonca/Certifications/blob/main/Edteam/courses/certificado-curso-figma.pdf)
+
 ## Scrimba Certifications
 
 [The Frontend Developer Career Path](https://scrimba.com/certificate/uzNgR5U3/gfrontend)
@@ -90,10 +103,6 @@ Certificates from courses and organizations I have earned.
 #### Backend
 
 [Bases de Datos NoSQL con Mongo DB - 15 / Ago / 2021 ](https://github.com/durbonca/Certifications/blob/main/Edteam/courses/certificado-curso-mongodb.pdf)
-
-#### Design
-
-[Figma desde cero - 12 / Jun / 2021 ](https://github.com/durbonca/Certifications/blob/main/Edteam/courses/certificado-curso-figma.pdf)
 
 #### Others
 
