@@ -2,6 +2,7 @@
 
 Certificates from courses and organizations I have earned.
 
+[ Curso Frontend USACH G22 - 17 / Dec / 2022 ](https://github.com/durbonca/Certifications/blob/main/Others/CERTIFICADO.pdf)
 
 ## Udemy Certifications
 
