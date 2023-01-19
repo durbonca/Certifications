@@ -6,7 +6,9 @@ Certificates from courses and organizations I have earned.
 
 ## Udemy Certifications
 
-#### Ecommerce
+#### Ecommerce - SHOPIFY
+
+[ Shopify Theme Development: Online Store 2.0 + TailwindCSS ](https://github.com/durbonca/Certifications/blob/main/Udemy/UC-c65de36f-f5d5-4a6e-b569-ab684448550e.pdf)
 
 [ How To Become A Shopify Expert (From Zero To Hero !) - 29 / Dec / 2022 ](https://github.com/durbonca/Certifications/blob/main/Udemy/UC-7efe8fcf-b8f2-4e94-94f6-1823f69a570c.pdf)
 
